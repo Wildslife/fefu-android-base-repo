@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="label_hello_screen">Пожалуй, лучший фитнес \n трекер в ДВФУ</string>
+    <string name="label_authors">Созданный студентами 2-ого курса</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="login">Уже есть аккаунт?</string>
+    <string name="log_in">Войти</string>
+    <string name="label_registration">Регистрация</string>
+    <string name="label_login">Вход</string>
+    <string name="label_gender">Пол</string>
+    <string name="info">Нажимая на кнопку, вы соглашаетесь \n с политикой конфиденциальности и обработки персональных \n данных, а также принимаете пользовательское соглашение</string>
+    <string name="login_field">Логин</string>
+    <string name="name_field">Имя или никнейм</string>
+    <string name="password_field">Пароль</string>
+    <string name="password_repeat_field">Повторите пароль</string>
+    <string name="radio_male">Мужской</string>
+    <string name="radio_female">Женский</string>
+    <string name="radio_others">Другое</string>
+</resources>
