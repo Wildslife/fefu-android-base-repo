@@ -1,4 +1,4 @@
-package ru.fefu.activitytracker
+package com.example.theworld
 
 import org.junit.Test
 
